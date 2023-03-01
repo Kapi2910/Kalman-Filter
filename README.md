@@ -1,3 +1,8 @@
+---
+title: POSITION ESTIMATION IN CONSTANT ACCELERATION MODEL
+author: Aaditya Prakash Kattekola
+date: 19 Jan 2023
+---
 # POSITION ESTIMATION IN CONSTANT ACCELERATION MODEL
 ## Objective of the Project
  Prediction of Positional values of vehicle in a 2D plane using Kalman filter on Constant Acceleration model using an Inertial Measurement Unit (IMU) Sensor
